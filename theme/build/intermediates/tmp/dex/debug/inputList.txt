@@ -1,0 +1,1 @@
+/home/leon/AndroidstudioProjects/android_packages_themes_Template-master/theme/build/intermediates/classes/debug
